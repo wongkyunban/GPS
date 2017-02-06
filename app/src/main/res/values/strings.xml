@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="gpsName">开始</string>
+    <string name="gpsEnd">结束</string>
+
+    <string name="collect">GPS数据采集</string>
+    <string name="startNum">起始桩号</string>
+    <string name="endNum">终止桩号</string>
+</resources>
